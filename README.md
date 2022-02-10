@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi! I'm @greggroth
+
+- 🌱 I’m currently learning German :de:
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/greggoryrothmeier/)
 
 <!--
 **greggroth/greggroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
